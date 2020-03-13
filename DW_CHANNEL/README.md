@@ -7,5 +7,10 @@ It serves as a benchmark for studying geostrophic turbulence in eddy-permitting 
 
 Contact: Joakim Kjellsson, joakimkjellsson@gmail.com
 
+<img src="./pyscripts/dw_channel.png"><br>
 
+Top, left: First 5-day mean of temperature which is basically the initial state 
+Top, right: Latitude sections of surface temperature after 5 days, 150 days, 250 days and 350 days. 
+Lower, left: Surface relative vorticity after one year. 
+Lower, right: Vertically integrated kinetic energy after one year. 
 
